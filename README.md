@@ -10,4 +10,4 @@
 
 아무 내용
 ## 배찌
-<img src="https://img.shields.io/badge/금은동-FFE005?style=flat-square&logo=goldenline&logoColor=000000"/>
+<img src="https://img.shields.io/badge/금은동-FFE005?style=flat-square&logo=goldenline&logoColor000000"/>
