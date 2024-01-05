@@ -10,6 +10,6 @@
 
 아무 내용
 ## 배찌
-<img src="https://img.shields.io/badge/금은동-FFE005?style=flat-square&logo=goldenline&logoColor000000"/>
-### 아보카도 
+<img src="https://img.shields.io/badge/!금은동!-FFE005?style=flat-square&logo=goldenline&logoColor000000"/>
+### 아보카도  
 ### 두리안
